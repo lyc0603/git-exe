@@ -4,4 +4,4 @@ Script to test the git command
 
 import os
 
-import pandas
+import numpy as np
